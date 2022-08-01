@@ -5,6 +5,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Öncelikle Projeyi Clonelayın.
 
+![Proje](/img/projeimg.png)
+
 ```
  git clone https://github.com/volkanmutlu87/kodluyoruzilkrepo.git
 ```
