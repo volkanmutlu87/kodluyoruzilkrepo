@@ -6,7 +6,9 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Öncelikle Projeyi Clonelayın.
 
 '''
+
 git clone https://github.com/volkanmutlu87/kodluyoruzilkrepo.git
+
 '''
 
 
